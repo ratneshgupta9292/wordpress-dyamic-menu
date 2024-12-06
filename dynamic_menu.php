@@ -4,4 +4,4 @@
     'theme_location' => 'top-menu',
     'container' => 'ul',
     'menu_class'=> '[add-your-class-here]'
- ) );
+ ) ); 
